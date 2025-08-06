@@ -1,0 +1,153 @@
+﻿.header {
+  height: 723px;
+  background: url(../image/bg3.png) no-repeat top center;
+  background-size: cover;
+}
+.banner {
+  margin-top: 59px;
+}
+.banner .logo {
+  margin-left: 329px;
+  width: 48px;
+}
+.banner .title {
+  height: 82px;
+}
+.banner h1 {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 700;
+  margin-left: 13px;
+}
+.banner .text .card {
+  margin: 9px 0 0 20px;
+}
+.banner .text .doc {
+  font-size: 26px;
+  margin: 9px 0 0 18px;
+}
+.banner .img-btn {
+  padding-top: 21px;
+}
+.banner-box {
+  width: 382px;
+  padding-left: 170px;
+  margin-left: 0;
+}
+.banner-box .key-word {
+  width: 190px;
+  height: 28px;
+  line-height: 28px;
+  font-size: 26px;
+  font-weight: 400;
+  text-align: center;
+  margin: 27px 0 60px 0;
+}
+.banner-box .key-word img {
+  width: 28px;
+  margin-right: 4px;
+}
+.banner .btn {
+  width: 328px;
+  height: 94px;
+  line-height: 94px;
+  margin: 0 0 16px 0;
+}
+.btn__icon {
+  left: 75px;
+  top: 25px;
+}
+.banner .btn .btn_text {
+  padding: 0 0 0 130px;
+  font-size: 30px;
+  font-weight: 600;
+}
+.banner .tip {
+  margin: 0 0 45px 0;
+}
+.banner .state {
+  height: 24px;
+  line-height: 24px;
+  font-size: 20px;
+  margin-right: 28px;
+}
+.banner .state img {
+  width: 24px;
+  margin-right: 6px;
+}
+.main {
+  width: 1112px;
+}
+.img-list {
+  width: 1112px;
+  height: 360px;
+  margin: 76px auto 124px;
+  text-align: center;
+}
+.img-list li {
+  width: 460px;
+  margin: 0 48px;
+}
+.img-list li .desc {
+  width: 460px;
+  min-height: 50px;
+  margin: 0 0;
+  font-weight: 400;
+  font-size: 38px;
+  color: #3d4756;
+  margin-bottom: 23px;
+}
+.downType {
+  width: 100%;
+}
+.common-btn {
+  width: 50%;
+  margin: 0 0;
+  text-align: center;
+}
+.common.btn {
+  margin: 0 auto;
+}
+.downType .safeType {
+  width: 50%;
+  text-align: center;
+}
+.downType .safeType .safe {
+  height: 78px;
+  line-height: 78px;
+  margin: 0 auto;
+  border-radius: 0;
+}
+.downType .safeType .checkTypeownload {
+  margin: 0 auto;
+}
+.fix .fix-box {
+  position: relative;
+}
+.product-logo {
+  position: absolute;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 0;
+}
+.product-logo i {
+  margin-left: 14px;
+}
+.fix-box .doc {
+  clear: both;
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  font-size: 26px;
+  line-height: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+.fix .at-once {
+  position: absolute;
+  right: 0;
+}
+.fix .at-once i {
+  font-size: 20px;
+  line-height: 50px;
+}
